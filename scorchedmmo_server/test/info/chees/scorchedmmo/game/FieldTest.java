@@ -1,4 +1,6 @@
-package nl.chees.scorchedmmo.game;
+package info.chees.scorchedmmo.game;
+
+import info.chees.scorchedmmo.game.Field;
 
 import org.junit.Before;
 import org.junit.Test;

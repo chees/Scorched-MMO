@@ -1,5 +1,7 @@
-package nl.chees.scorchedmmo.game;
+package info.chees.scorchedmmo.game;
 
+import info.chees.scorchedmmo.game.Game;
+import info.chees.scorchedmmo.game.Player;
 import net.tootallnate.websocket.WebSocket;
 
 import org.junit.Before;

@@ -1,4 +1,4 @@
-package nl.chees.scorchedmmo.game;
+package info.chees.scorchedmmo.game;
 
 import net.tootallnate.websocket.WebSocket;
 

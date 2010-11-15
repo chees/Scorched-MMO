@@ -1,7 +1,7 @@
-package nl.chees.scorchedmmo.server;
+package info.chees.scorchedmmo.server;
 
-import nl.chees.scorchedmmo.game.Game;
-import nl.chees.scorchedmmo.game.Player;
+import info.chees.scorchedmmo.game.Game;
+import info.chees.scorchedmmo.game.Player;
 
 import org.json.simple.JSONObject;
 

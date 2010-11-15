@@ -1,8 +1,10 @@
-package nl.chees.scorchedmmo.game;
+package info.chees.scorchedmmo.game;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
-import nl.chees.scorchedmmo.server.Handler;
+import info.chees.scorchedmmo.game.Game;
+import info.chees.scorchedmmo.game.Player;
+import info.chees.scorchedmmo.server.Handler;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

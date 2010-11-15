@@ -1,5 +1,6 @@
-package nl.chees.scorchedmmo.game;
+package info.chees.scorchedmmo.game;
 
+import info.chees.scorchedmmo.game.Player;
 import junit.framework.Assert;
 
 import org.junit.Test;

@@ -1,11 +1,12 @@
-package nl.chees.scorchedmmo.server;
+package info.chees.scorchedmmo.server;
+
+import info.chees.scorchedmmo.game.Game;
+import info.chees.scorchedmmo.game.Player;
 
 import java.io.IOException;
 
 import net.tootallnate.websocket.WebSocket;
 import net.tootallnate.websocket.WebSocketServer;
-import nl.chees.scorchedmmo.game.Game;
-import nl.chees.scorchedmmo.game.Player;
 
 /**
  * A WebSocketServer implementation.
