@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Play Scorched Earth MMO</title>
+<link rel="stylesheet" type="text/css" href="/css/default.css">
+</head>
+<body>
+<form id="uriForm" action="#">
+	<input type="text" id="uri"	value="ws://localhost:4242">
+	<input type="submit" id="connect" value="Connect">
+	<input type="button" id="disconnect" value="Disconnect" disabled="disabled">
+</form>
+<br />
+<form id="sendForm" action="#">
+	<input type="text" id="textField">
+	<input type="submit" value="Send">
+</form>
+<br />
+<canvas width="400" height="200" id="gameCanvas">
+</canvas>
+<br />
+<div id="log">
+</div>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script type="text/javascript" src="/js/FABridge.js"></script>
+<script type="text/javascript" src="/js/scorched.js"></script>
+
+</body>
+</html>
